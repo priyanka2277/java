@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../jap/test"
+		},
+		{
+			"name": "java",
+			"path": "../jap/java"
+		},
+		{
+			"name": "java-1",
+			"path": "../jap/java-1"
+		}
+	],
+	"settings": {}
+}
